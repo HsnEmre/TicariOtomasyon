@@ -1,0 +1,401 @@
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\Ticari_Otomasyon.exe.config
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\Ticari_Otomasyon.exe
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\Ticari_Otomasyon.pdb
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.Properties.Resources.resources
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.exe.licenses
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.exe
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.pdb
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmUrunler.resources
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmAnaModul.resources
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmMusteriler.resources
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmFirmalar.resources
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmPersonel.resources
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmRehber.resources
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmMail.resources
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmGiderler.resources
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmBankalar.resources
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmFaturalar.resources
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmFaturaUrunDetay.resources
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmFaturaUrunDuzenleme.resources
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmNotlar.resources
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmNotDetay.resources
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmHareketler.resources
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmAdmin.resources
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmRaporlar.resources
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\RdlCompile.cache
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\RdlCompile.compiled
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmStoklar.resources
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmAyarlar.resources
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmKasa.resources
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmAnaSayfa.resources
+C:\Users\murat\Desktop\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmStokDetay.resources
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\Ticari_Otomasyon.exe.config
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.exe
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.pdb
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\Ticari_Otomasyon.exe
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\Ticari_Otomasyon.pdb
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmAdmin.resources
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmAnaModul.resources
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmAnaSayfa.resources
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmAyarlar.resources
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmBankalar.resources
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmFaturalar.resources
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmFaturaUrunDetay.resources
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmFaturaUrunDuzenleme.resources
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmFirmalar.resources
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmGiderler.resources
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmHareketler.resources
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmKasa.resources
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmMail.resources
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmMusteriler.resources
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmNotDetay.resources
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmNotlar.resources
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmPersonel.resources
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmRaporlar.resources
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmRehber.resources
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmStokDetay.resources
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmStoklar.resources
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmUrunler.resources
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.Properties.Resources.resources
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.exe.licenses
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\RdlCompile.cache
+C:\Users\murat\Desktop\Dersler\deneme test\Yeni klasör (3)\Yeni klasör (2)\Yeni klasör\Yeni klasör (3)\Dersler\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\RdlCompile.compiled
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.csprojAssemblyReference.cache
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmAdmin.resources
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmAnaModul.resources
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmAnaSayfa.resources
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmAyarlar.resources
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmBankalar.resources
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmFaturalar.resources
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmFaturaUrunDetay.resources
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmFaturaUrunDuzenleme.resources
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmFirmalar.resources
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmGiderler.resources
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmHareketler.resources
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmKasa.resources
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmMail.resources
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmMusteriler.resources
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmNotDetay.resources
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmNotlar.resources
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmPersonel.resources
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmRaporlar.resources
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmRehber.resources
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmStokDetay.resources
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmStoklar.resources
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmUrunler.resources
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.Properties.Resources.resources
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.csproj.GenerateResource.cache
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.exe.licenses
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.csproj.CoreCompileInputs.cache
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.exe
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.pdb
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\Ticari_Otomasyon.exe.config
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\Ticari_Otomasyon.exe
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\Ticari_Otomasyon.pdb
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.BonusSkins.v18.2.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Charts.v18.2.Core.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Data.v18.2.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Images.v18.2.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Office.v18.2.Core.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.RichEdit.v18.2.Export.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Utils.v18.2.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraBars.v18.2.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraCharts.v18.2.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraCharts.v18.2.UI.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraRichEdit.v18.2.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraScheduler.v18.2.Core.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraScheduler.v18.2.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Utils.v18.2.UI.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraNavBar.v18.2.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Data.v18.2.xml
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Office.v18.2.Core.xml
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Utils.v18.2.xml
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraBars.v18.2.xml
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraCharts.v18.2.xml
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraCharts.v18.2.UI.xml
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.xml
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraRichEdit.v18.2.xml
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraScheduler.v18.2.xml
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraScheduler.v18.2.Core.xml
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.xml
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Utils.v18.2.UI.xml
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraNavBar.v18.2.xml
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.XtraCharts.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.XtraCharts.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.XtraCharts.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.XtraCharts.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.XtraRichEdit.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.XtraRichEdit.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.XtraRichEdit.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.XtraRichEdit.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.XtraScheduler.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.XtraScheduler.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.XtraScheduler.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.XtraScheduler.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.Utils.v18.2.UI.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.Utils.v18.2.UI.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.Utils.v18.2.UI.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.Utils.v18.2.UI.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.XtraNavBar.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.XtraNavBar.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.XtraNavBar.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.XtraNavBar.v18.2.resources.dll
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.csproj.CopyComplete
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\RdlCompile.cache
+E:\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\RdlCompile.compiled
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\Ticari_Otomasyon.exe.config
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\Ticari_Otomasyon.exe
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\Ticari_Otomasyon.pdb
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.BonusSkins.v18.2.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Charts.v18.2.Core.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Data.v18.2.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Images.v18.2.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Office.v18.2.Core.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.RichEdit.v18.2.Export.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Utils.v18.2.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraBars.v18.2.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraCharts.v18.2.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraCharts.v18.2.UI.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraRichEdit.v18.2.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraScheduler.v18.2.Core.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraScheduler.v18.2.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Utils.v18.2.UI.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraNavBar.v18.2.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Data.v18.2.xml
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Office.v18.2.Core.xml
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Utils.v18.2.xml
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraBars.v18.2.xml
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraCharts.v18.2.xml
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraCharts.v18.2.UI.xml
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.xml
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraRichEdit.v18.2.xml
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraScheduler.v18.2.xml
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraScheduler.v18.2.Core.xml
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.xml
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.Utils.v18.2.UI.xml
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\DevExpress.XtraNavBar.v18.2.xml
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.XtraCharts.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.XtraCharts.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.XtraCharts.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.XtraCharts.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.XtraRichEdit.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.XtraRichEdit.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.XtraRichEdit.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.XtraRichEdit.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.XtraScheduler.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.XtraScheduler.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.XtraScheduler.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.XtraScheduler.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.Utils.v18.2.UI.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.Utils.v18.2.UI.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.Utils.v18.2.UI.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.Utils.v18.2.UI.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\de\DevExpress.XtraNavBar.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\es\DevExpress.XtraNavBar.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ja\DevExpress.XtraNavBar.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\ru\DevExpress.XtraNavBar.v18.2.resources.dll
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.csprojAssemblyReference.cache
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmAdmin.resources
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmAnaModul.resources
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmAnaSayfa.resources
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmAyarlar.resources
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmBankalar.resources
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmFaturalar.resources
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmFaturaUrunDetay.resources
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmFaturaUrunDuzenleme.resources
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmFirmalar.resources
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmGiderler.resources
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmHareketler.resources
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmKasa.resources
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmMail.resources
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmMusteriler.resources
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmNotDetay.resources
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmNotlar.resources
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmPersonel.resources
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmRaporlar.resources
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmRehber.resources
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmStokDetay.resources
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmStoklar.resources
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.FrmUrunler.resources
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.Properties.Resources.resources
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.csproj.GenerateResource.cache
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.exe.licenses
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\RdlCompile.cache
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\RdlCompile.compiled
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.csproj.CoreCompileInputs.cache
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.csproj.CopyComplete
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.exe
+E:\Yeni klasör (4)\Yeni klasör\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.pdb
