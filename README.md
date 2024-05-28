@@ -1,1 +1,10 @@
 
+![photo1716839752 (4)](https://github.com/HsnEmre/TicariOtomasyon/assets/92093161/163bf9a9-cb57-4621-bb1b-ad44a40894b2)
+![photo1716839752 (3)](https://github.com/HsnEmre/TicariOtomasyon/assets/92093161/354829e4-bd03-43dc-b43e-9f9d8f47efee)
+![photo1716839752 (2)](https://github.com/HsnEmre/TicariOtomasyon/assets/92093161/c27586e1-81d6-45e4-8a97-312b5772de84)
+![photo1716839752 (1)](https://github.com/HsnEmre/TicariOtomasyon/assets/92093161/cca3a8fd-c8ea-4a00-939d-3666623bda06)
+![photo1716839752](https://github.com/HsnEmre/TicariOtomasyon/assets/92093161/6e9eea66-08f3-46c2-b1a9-c95d0da11d87)
+![photo1716839752 (8)](https://github.com/HsnEmre/TicariOtomasyon/assets/92093161/0330eec3-7cd7-4e7a-954b-7dbdfe206cef)
+![photo1716839752 (7)](https://github.com/HsnEmre/TicariOtomasyon/assets/92093161/6d60ac11-6a65-407a-b2b2-67ea014cb8b7)
+![photo1716839752 (6)](https://github.com/HsnEmre/TicariOtomasyon/assets/92093161/fa1465b2-6171-4a69-8a6a-39056fc1dcc3)
+![photo1716839752 (5)](https://github.com/HsnEmre/TicariOtomasyon/assets/92093161/b668afc3-912f-4d9a-9715-d82e505f7968)
